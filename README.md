@@ -21,12 +21,11 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 
 
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdelhafid-ayaou/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="ayaou.hafid@gmail.com">
+  <a href="mailto: ayaou.hafid@gmail.com">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-twitter-URL">
