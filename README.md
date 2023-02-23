@@ -9,10 +9,10 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 🧑‍💼 Master's degree holder in data science with a keen interest in solving complex data-related problems.
 - 💻 Aspiring data scientist proficient in Python, R, SQL, and other data-related tools and technologies.
 - ⚡ Skilled in web scraping, data preparation, and data visualization to gather and analyze insights from various data sources.
-- ⚡ Proficient in data analysis, machine learning, and deep learning techniques to develop predictive models and uncover hidden patterns in data.
-- ⚡ Experienced in natural language processing (NLP) and model interpretability to enhance the accuracy and explainability of machine learning models.
-- ⚡ Knowledgeable in model deployment, model monitoring, and MLOps to ensure efficient and scalable implementation of machine learning models.
-- ⚡ Familiar with Big Data technologies to handle and process large datasets, and AutoML to streamline the machine learning pipeline.
+  -  Proficient in data analysis, machine learning, and deep learning techniques to develop predictive models and uncover hidden patterns in data.
+  -  Experienced in natural language processing (NLP) and model interpretability to enhance the accuracy and explainability of machine learning models.
+  -  Knowledgeable in model deployment, model monitoring, and MLOps to ensure efficient and scalable implementation of machine learning models.
+  -  Familiar with Big Data technologies to handle and process large datasets, and AutoML to streamline the machine learning pipeline.
 
 
 <div id="header" align="center">
