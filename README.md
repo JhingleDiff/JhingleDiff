@@ -5,14 +5,14 @@
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🛰️ Passionate data scientist with a strong foundation in machine learning, statistical modeling, and data analysis.
+- 🧑‍💼 Master's degree holder in data science with a keen interest in solving complex data-related problems.
+- 💻 Aspiring data scientist proficient in Python, R, SQL, and other data-related tools and technologies.
+- ⚡ Skilled in web scraping, data preparation, and data visualization to gather and analyze insights from various data sources.
+- ⚡ Proficient in data analysis, machine learning, and deep learning techniques to develop predictive models and uncover hidden patterns in data.
+- ⚡ Experienced in natural language processing (NLP) and model interpretability to enhance the accuracy and explainability of machine learning models.
+- ⚡ Knowledgeable in model deployment, model monitoring, and MLOps to ensure efficient and scalable implementation of machine learning models.
+- ⚡ Familiar with Big Data technologies to handle and process large datasets, and AutoML to streamline the machine learning pipeline.
 
 
 <div id="header" align="center">
@@ -73,7 +73,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/bokeh.png" title="bokeh" alt="" width="40" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/sklearn.png" title="sklearn" alt="" width="90" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/logo.png" title="PyCaret" alt="" width="100" height="20"/>
-  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/keras.webp" title="Keras" alt="" width="40" height="40"/>
+  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/tenserflow.png" title="TenserFlow" alt="" width="40" height="40"/>
+  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/pyqt.png" title="PyQt" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   
