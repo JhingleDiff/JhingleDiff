@@ -70,9 +70,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/seaborn.png" title="seaborn" alt="" width="40" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/matplotlib.png" title="matplotlib" alt="" width="40" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/plotly.webp" title="plotly" alt="" width="40" height="40"/>
-  <img src="" title="" alt="" width="40" height="40"/>
-  <img src="" title="" alt="" width="40" height="40"/>
-  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/bokeh.png" title="bokeh" alt="" width="40" height="40"/>
+  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/sklearn.png" title="sklearn" alt="" width="40" height="40"/>
+  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/logo.png" title="PyCaret" alt="" width="80" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
