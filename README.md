@@ -34,7 +34,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### 🧠: Skills :
 <div>
-  <img src="https://img.shields.io/badge/-WebScraping-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Web Scraping Badge"/>
+  <img src="https://img.shields.io/badge/-WebScraping-red?style=for-the-badge" alt="Web Scraping"/>
 </div>
 
 
