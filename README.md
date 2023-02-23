@@ -54,7 +54,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :hammer_and_wrench: Language, Libraries and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
@@ -80,9 +80,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/Docker.webp" title="Docker" alt="" width="60" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/mlflow.png" title="mlflow" alt="" width="90" height="30"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/Evidently%20AI.png" title="Evidently AI" alt="" width="90" height="30"/>
-  <img src="" title="" alt="" width="40" height="40"/>
-  
-  
+
 </div>
 
 <!--
