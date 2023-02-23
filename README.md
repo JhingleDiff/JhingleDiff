@@ -68,8 +68,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="" width="40" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/seaborn.png" title="seaborn" alt="" width="40" height="40"/>
-  <img src="" title="" alt="" width="40" height="40"/>
-  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/matplotlib.png" title="matplotlib" alt="" width="40" height="40"/>
+  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/plotly.webp" title="plotly" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
