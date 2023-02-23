@@ -44,7 +44,10 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://img.shields.io/badge/-Model Interpretability-blue?style=for-the-badge" alt="Model-Interpretability"/>
   <img src="https://img.shields.io/badge/-Model Deployment-lightgrey?style=for-the-badge" alt="Model-Deployment"/>
   <img src="https://img.shields.io/badge/-Model Monitoring-success?style=for-the-badge" alt="Model-Monitoring"/>
-  <img src="https://img.shields.io/badge/-Model Monitoring-success?style=for-the-badge" alt="Model-Monitoring"/>
+  <img src="https://img.shields.io/badge/-Model Monitoring-9cf?style=for-the-badge" alt="Model-Monitoring"/>
+  <img src="https://img.shields.io/badge/-MLOps-success?style=for-the-badge" alt="MLOps"/>
+  <img src="https://img.shields.io/badge/-AutoML-blueviolet?style=for-the-badge" alt="AutoML"/>
+  <img src="https://img.shields.io/badge/-Big Data-red?style=for-the-badge" alt="Big-Data"/>
 </div>
 
 
