@@ -64,7 +64,16 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSQL" alt="MSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSQL" alt="MSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="" alt="" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
+  <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   <img src="" title="" alt="" width="40" height="40"/>
   
