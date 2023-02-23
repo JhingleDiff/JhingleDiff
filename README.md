@@ -36,6 +36,15 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <div>
   <img src="https://img.shields.io/badge/-Web Scraping-red?style=for-the-badge" alt="Web-Scraping"/>
   <img src="https://img.shields.io/badge/-Data Preparation-brightgreen?style=for-the-badge" alt="Data-Preparation"/>
+  <img src="https://img.shields.io/badge/-Data Visualisation-green?style=for-the-badge" alt="Data-Visualisation"/>
+  <img src="https://img.shields.io/badge/-Data Analysis-yellowgreen?style=for-the-badge" alt="Data-Analysis"/>
+  <img src="https://img.shields.io/badge/-Machine Learning-yellow?style=for-the-badge" alt="Machine-Learning"/>
+  <img src="https://img.shields.io/badge/-Deep Learning-orange?style=for-the-badge" alt="Deep-Learning"/>
+  <img src="https://img.shields.io/badge/-NLP-red?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/-Model Interpretability-blue?style=for-the-badge" alt="Model-Interpretability"/>
+  <img src="https://img.shields.io/badge/-Model Deployment-lightgrey?style=for-the-badge" alt="Model-Deployment"/>
+  <img src="https://img.shields.io/badge/-Model Monitoring-success?style=for-the-badge" alt="Model-Monitoring"/>
+  <img src="https://img.shields.io/badge/-Model Monitoring-success?style=for-the-badge" alt="Model-Monitoring"/>
 </div>
 
 
