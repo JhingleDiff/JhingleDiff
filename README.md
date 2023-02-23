@@ -33,7 +33,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </div>
 
 ### 🧠: Skills :
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/-Web Scraping-red?style=for-the-badge" alt="Web-Scraping"/>
   <img src="https://img.shields.io/badge/-Data Preparation-brightgreen?style=for-the-badge" alt="Data-Preparation"/>
   <img src="https://img.shields.io/badge/-Data Visualisation-green?style=for-the-badge" alt="Data-Visualisation"/>
