@@ -72,7 +72,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/plotly.webp" title="plotly" alt="" width="40" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/bokeh.png" title="bokeh" alt="" width="40" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/sklearn.png" title="sklearn" alt="" width="90" height="40"/>
-  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/logo.png" title="PyCaret" alt="" width="90" height="30"/>
+  <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/logo.png" title="PyCaret" alt="" width="90" height="20"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/keras.webp" title="Keras" alt="" width="40" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/tenserflow.png" title="TenserFlow" alt="" width="40" height="40"/>
   <img src="https://github.com/JhingleDiff/JhingleDiff/blob/main/icons/pyqt.png" title="PyQt" alt="" width="40" height="40"/>
